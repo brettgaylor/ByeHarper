@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "Some Rich Asshole",
-	"version": "1.3",
-	"description": "Replaces the text 'Donald Trump' with 'Some Rich Asshole'.",
+	"manifest_version": 1,
+	"name": "Fear Mongering Shithead",
+	"version": "1.0",
+	"description": "Replaces the text 'Stephen Harper' with 'Some Fear Mongering Shithead'.",
 	"content_scripts":
 	[
 		{
