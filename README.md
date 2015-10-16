@@ -1,7 +1,7 @@
 Stephen Harper -> Some Fear Mongering Shithead
 =============
 
-Browser add-on that replaces "Stephen Harper" with "Some Fear Mongering Shithead". Amongst other things.  A fork of "Some Rich Asshole".
+Browser add-on that replaces "Stephen Harper" with "Some Fear Mongering Shithead". Amongst other things!  A fork of "Some Rich Asshole".
 
 Available for Chrome and Firefox.
 
@@ -16,3 +16,8 @@ The best way to install this is from [the chrome webstore](https://https://chrom
 ### Firefox
 
 Install it from [Mozilla's add-on site](https://addons.mozilla.org/en-US/firefox/addon/some-fear-mongering-shithead/)
+
+
+
+    192.30.252.153
+    192.30.252.154
